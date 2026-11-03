@@ -1,1 +1,5 @@
-const nextConfig = { output: "standalone" }; export default nextConfig;\n
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {};
+
+export default nextConfig;
